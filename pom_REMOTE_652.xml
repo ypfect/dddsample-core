@@ -11,7 +11,6 @@
         <version>2.0.1.RELEASE</version>
         <relativePath></relativePath>
     </parent>
-
     <description>This application shows 啊啊啊啊a阿斯顿 few key concepts of
         Domain Driven Design implemented in Enterprise Java.
     </description>

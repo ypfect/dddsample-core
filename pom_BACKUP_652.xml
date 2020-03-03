@@ -11,8 +11,11 @@
         <version>2.0.1.RELEASE</version>
         <relativePath></relativePath>
     </parent>
-
+<<<<<<< .merge_file_a14256
+    <description>This application shows 啊啊啊啊a 按瓦few key concepts of
+=======
     <description>This application shows 啊啊啊啊a阿斯顿 few key concepts of
+>>>>>>> .merge_file_a11524
         Domain Driven Design implemented in Enterprise Java.
     </description>
     <url>http://dddsample.sourceforge.net</url>
